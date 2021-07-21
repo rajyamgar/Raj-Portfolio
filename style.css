@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(122, 122, 122);
+    line-height: 20px;
+    }
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(243, 236, 142);
+    border-radius: 20px;
+}
+.experiences-item{
+    padding: 10px;
+    border-left: 1px solid rgb(122, 122, 122);
+}
+.purple-color{
+    color: rgb(235, 60, 41);
+}
+.half-width{
+    width: 50%;
+    float: left;
+    text-align: justify;
+}
+.side-image{
+    width: 50%;
+    padding: 22px 22px 22px 22px;
+}
+.top-banner{
+    text-align: center;
+}
+h1{
+    font-size: 2.5em;
+}
+.purple{
+    color: burlywood;
+    text-align: center;
+}
+.grey{
+    color: rgb(95, 95, 95);
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.primary-btn{
+    color: aliceblue;
+    background-color: crimson;
+    padding: 13px 42px 13px 42px;
+    align-items: center;
+    border-radius: 20px;
+    text-decoration: none;
+}
